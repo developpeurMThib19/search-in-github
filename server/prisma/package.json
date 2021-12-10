@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@prisma/client": "3.6.0",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "prisma": "3.6.0"
+  }
+}
